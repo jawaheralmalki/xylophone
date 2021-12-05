@@ -4,15 +4,28 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         {
-            "name": "xylophon_app",
-            "cwd": "xylophon_app",
+            "name": "Flutter",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main.dart"
+        },
+        {
+            "name": "Flutter",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main.dart"
+        },
+        {
+            "name": "xylophon",
+            "cwd": "xylophon",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "xylophon_app (profile mode)",
-            "cwd": "xylophon_app",
+            "name": "xylophon (profile mode)",
+            "cwd": "xylophon",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
