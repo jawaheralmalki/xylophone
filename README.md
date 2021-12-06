@@ -3,7 +3,7 @@
 A new Flutter project use oudioplayer package " my app play Quran "
 
 
-## The Problems I encountered :
+# The Problems I encountered :
 
 I had error "Gradle build failed: Execution failed for task ':audioplayers:compileDebugKotlin' " and found the solution in thiis link 
 https://stackoverflow.com/questions/68967375/gradle-build-failed-execution-failed-for-task-audioplayerscompiledebugkotlin
